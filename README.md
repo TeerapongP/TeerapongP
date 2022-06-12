@@ -1,6 +1,4 @@
-<div align="center">
-<img hight="250" width="700" alt="GIF" align="center" src="https://c.tenor.com/h2JoxZnRSrIAAAAC/nice-to-meet-you-meet.gif">
-</div>
+
 
 </br>
 </br>
