@@ -28,7 +28,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p align="center">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/html.png](https://i2.wp.com/devtai.com/wp-content/uploads/2018/06/23-237381_java-html-language-logo-png-transparent-png.jpg?fit=500%2C280&ssl=1)" alt="html"  width="100" hight="50">
+<img src="https://i2.wp.com/devtai.com/wp-content/uploads/2018/06/23-237381_java-html-language-logo-png-transparent-png.jpg?fit=500%2C280&ssl=1)" alt="html"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/css.png" alt="css"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/csharp.png" alt="csharp"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">  
