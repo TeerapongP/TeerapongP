@@ -33,7 +33,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="csharp"  width="80" hight="50">
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="html"  width="80" hight="50">
 <img src="https://www.shareicon.net/download/2015/09/17/102347_css3_512x512.png" alt="css"  width="80" hight="50">
-<img src="https://ih1.redbubble.net/image.815350031.4911/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg" alt="js"  width="90" hight="50">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919828.png?w=360" alt="js"  width="90" hight="50">
 <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png?w=360" alt="sql"  width="80" hight="50">
 
 <img src="https://play-lh.googleusercontent.com/tzKV2uViU1c25skRw4VLv-LQje6WqXEfPtays6dyNXzvA5Y4X3hbwXaVmMwyMvRNTg" alt="flutter"  width="80" hight="50">
