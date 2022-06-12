@@ -12,7 +12,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - ✨ Football (Neighbourhood Professional XD)
 
 <div align="center">
-<img hight="250" width="700" alt="GIF" align="center" src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif">
+<img hight="350" width="700" alt="GIF" align="center" src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif">
 </div>
 </br>
 </br>
