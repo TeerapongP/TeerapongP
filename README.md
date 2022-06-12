@@ -42,6 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" alt="flask" width="80" hight="50">  
 <img src="https://icon-library.com/images/bootstrap-icon-png/bootstrap-icon-png-28.jpg" alt="boostrap" width="80" hight="50">  
+<img src="https://de.smartcat.com/_vue_builder/smartcat_en_main_1626933869281_1646862035619_figma-square_2x.png" alt="figma" width="80" hight="50"> 
 <img src="https://user-images.githubusercontent.com/8563847/27636538-4c87901a-5bc9-11e7-9952-b6596f6dc027.png" alt="visualstudio_code" width="80" hight="50">  
 
 # Contact Me :
