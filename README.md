@@ -1,9 +1,4 @@
-<div align="center">
-<img hight="250" width="700" alt="GIF" align="center" src="https://qph.cf2.quoracdn.net/main-qimg-9b554bc3b177028cfa976cdeef2afac4">
-</div>
-</br>
-</br>
-</br>
+
 # About ME 💬 :
 
 hi, i'm Teerapong Pinkaew, a Front end developer from Thailand. i'm studying at kasetsart university kamphaeng saen campus. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -16,10 +11,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - ✨ Reading Manga
 - ✨ Football (Neighbourhood Professional XD)
 
+<div align="center">
+<img hight="250" width="700" alt="GIF" align="center" src="https://qph.cf2.quoracdn.net/main-qimg-9b554bc3b177028cfa976cdeef2afac4">
+</div>
 </br>
 </br>
 </br>
-
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
