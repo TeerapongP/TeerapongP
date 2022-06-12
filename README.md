@@ -56,17 +56,20 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" />
 </a>
 <a href="https://www.facebook.com/Nonrapak707">
- <img align="left" alt="Facebook" width="50" hight="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" />
+ <img align="rigt" alt="Facebook" width="50" hight="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" />
 </a>
 </br>
 </br>
 </br>
 </a>
 <a href="https://steamcommunity.com/profiles/76561198085396336/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" />
 </a>
- </p>
- 
+
+<a href="https://www.instagram.com/tuire.kn__/">
+  <img align="right" alt="Steam" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" />
+</a>
+</p>
 </br>
 </br>
 </br>
