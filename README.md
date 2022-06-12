@@ -58,9 +58,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.facebook.com/Nonrapak707">
  <img align="left" alt="Facebook" width="50" hight="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" />
 </a>
-</br>
-</br>
-</br>
+
 </a>
 <a href="https://steamcommunity.com/profiles/76561198085396336/">
   <img align="left" alt="Steam" width="50" hight="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" />
