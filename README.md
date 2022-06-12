@@ -56,7 +56,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" />
 </a>
 <a href="https://www.facebook.com/Nonrapak707">
- <img align="rigt" alt="Facebook" width="50" hight="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" />
+ <img align="left" alt="Facebook" width="50" hight="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" />
 </a>
 </br>
 </br>
@@ -67,7 +67,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 
 <a href="https://www.instagram.com/tuire.kn__/">
-  <img align="right" alt="Steam" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" />
+  <img align="left" alt="Steam" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" />
 </a>
 </p>
 </br>
