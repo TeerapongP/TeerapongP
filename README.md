@@ -45,7 +45,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  </br>
 
 
-<img hight="500" width="500" align="right" alt="GIF" src="https://cdn.shopify.com/s/files/1/0558/9824/3232/files/animephone.gif?v=1623057187">
+<img hight="450" width="500" align="right" alt="GIF" src="https://cdn.shopify.com/s/files/1/0558/9824/3232/files/animephone.gif?v=1623057187">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
