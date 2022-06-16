@@ -9,7 +9,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Manga
-- ✨ Football (Neighbourhood Professional XD)
+- ✨ Football 
 
 <div align="center">
 <img hight="350" width="700" alt="GIF" align="center" src="https://c.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif">
