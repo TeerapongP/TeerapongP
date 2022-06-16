@@ -30,7 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="html"  width="80" hight="50">
 <img src="https://www.shareicon.net/download/2015/09/17/102347_css3_512x512.png" alt="css"  width="80" hight="50">
 <img src="https://icons-for-free.com/download-icon-command+develop+javascript+language+programming+software+icon-1320165727225308896_512.png" alt="js"  width="90" hight="50">
-<img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="sql"  width="90" hight="50">
+<img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="sql"  width="80" hight="50">
 
 <img src="https://play-lh.googleusercontent.com/tzKV2uViU1c25skRw4VLv-LQje6WqXEfPtays6dyNXzvA5Y4X3hbwXaVmMwyMvRNTg" alt="flutter"  width="80" hight="50">
   
