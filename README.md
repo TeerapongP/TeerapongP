@@ -45,7 +45,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://64.media.tumblr.com/ff088fb9acee4ea20f78380368e37376/tumblr_mq9l2sS0jZ1sy0w00o1_500.gifv">
+<img hight="320" width="450" align="right" alt="GIF" src="https://cdn.shopify.com/s/files/1/0558/9824/3232/files/animephone.gif?v=1623057187">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -54,7 +54,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="50" hight="50" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" />
 </a>
 <a href="https://www.facebook.com/Nonrapak707">
- <img align="left" alt="Facebook" width="50" hight="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" />
+<img align="left" alt="Facebook" width="50" hight="50" src="https://1.bp.blogspot.com/-S8HTBQqmfcs/XN0ACIRD9PI/AAAAAAAAAlo/FLhccuLdMfIFLhocRjWqsr9cVGdTN_8sgCPcBGAYYCw/s1600/f_logo_RGB-Blue_1024.png" />
 </a>
 
 </a>
