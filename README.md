@@ -34,7 +34,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FF6C37?style=flat&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/TypeScript-FF6C37?style=flat&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-FF6C37?style=flat&logo=scss&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
