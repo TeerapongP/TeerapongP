@@ -12,7 +12,7 @@
 
  🔭 I’m currently working on [My portfolio website]()
 
- 🌱 I’m currently learning **SQL ORACLE SPRING BOOT AngularJs HTML CSS Bootstrap PrimeNG**
+ 🌱 I’m currently learning **SQL ORACLE SPRING BOOT AngularJs HTML CSS Bootstrap PrimeNG and New Technology**
 
  💬 Ask me about **SQL ORACLE SPRING BOOT AngularJs HTML CSS Bootstrap PrimeNG**
 
