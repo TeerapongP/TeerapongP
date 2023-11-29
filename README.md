@@ -44,7 +44,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
+![Nuxt.js 3](https://img.shields.io/badge/Nuxt.js%203-00C58E?style=flat&logo=nuxt.js&logoColor=white)
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 <p  align="center">
