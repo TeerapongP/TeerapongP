@@ -48,7 +48,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/.NET%206.0-blueviolet)
 ![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat)
-![PrimeIcons Logo](https://www.primefaces.org/wp-content/uploads/2018/07/primeicons-logo.svg "PrimeIcons")
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
