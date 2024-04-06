@@ -46,8 +46,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Nuxt.js 3](https://img.shields.io/badge/Nuxt.js%203-00C58E?style=flat&logo=nuxt.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-[![ASP.NET](https://img.shields.io/badge/.NET%206.0-blueviolet)](https://dotnet.microsoft.com/download)
-[![GIT-LAB](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)](https://about.gitlab.com/)
+[![ASP.NET](https://img.shields.io/badge/.NET%206.0-blueviolet)]
+[![GIT-LAB](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)]
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
