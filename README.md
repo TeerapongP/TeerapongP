@@ -15,15 +15,18 @@
 
  🔭 I’m currently working on [My portfolio website]()
 
- 🌱 I’m currently learning **SQL ORACLE .NET AngularJs HTML CSS Bootstrap PrimeNG and New Technology**
+🎓 I’m currently pursuing a **Master of Science in Digital Network and Information Security Management**  
+at **King Mongkut's University of Technology North Bangkok**
 
- 💬 Ask me about **SQL ORACLE .NET  AngularJs HTML CSS Bootstrap PrimeNG**
+🌱 I’m currently learning **SQL, ORACLE, .NET, AngularJS, HTML, CSS, Bootstrap, PrimeNG, and new technologies**
 
- 📫 Reach out to me: **thirapongp7@gmail.com**
+💬 Ask me about **SQL, ORACLE, .NET, AngularJS, HTML, CSS, Bootstrap, PrimeNG**
 
- ✍ You can find my resume [here]()
+📫 Reach out to me: **thirapongp7@gmail.com**
 
- ⚡ Fun fact: **My first line of code was not "Hello World!"**
+✍ You can find my resume [here]()
+
+⚡ Fun fact: **My first line of code was not "Hello World!"**
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
